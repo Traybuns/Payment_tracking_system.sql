@@ -1,1 +1,1 @@
-# test
+I built this student payment tracking system using MSSQL for a fictitious university. I had a lot of fun thinking up the names ang email adresses for the students enrolled and lecturers on the payroll of my university. It still needs some work but it works just fine.
